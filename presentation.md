@@ -26,28 +26,43 @@
 
 !
 
--1- **S**ocial currency; Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.). We geven ze info die ze verder willen verspreiden (hoor mij eens!)
+-1- **S**ocial currency  
+Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.).  
+We geven ze info die ze verder willen verspreiden (hoor mij eens!)
 
 !
 
--2- **T**riggers; Top of mind leads to tip of tongue. Het onderwerp/product moet vaak getriggered worden door de omgeving/context. Dan komt het vaker ter sprake.
+-2- **T**riggers  
+Top of mind leads to tip of tongue.  
+Het onderwerp/product moet vaak getriggered worden door de omgeving/context.  
+Dan komt het vaker ter sprake.
 
 !
 
--3- **E**motion; Emotional things often get shared. Focus op emoties ipv op functionaliteit. Negatieve emoties kunnen zelfs gebruikt worden.
+-3- **E**motion  
+Zaken die mensen raken/emotioneren, worden vaker gedeeld.  
+Focus op emoties ipv op functionaliteit.  
+Zelfs negatieve emoties kunnen gebruikt worden.
 
 !
 
 
--4- **P**ublic; Money see money do. Make things public, make them observable, so they can be copied.
+-4- **P**ublic  
+Money see money do. 
+Maak zaken publiek.  
+Maak ze observeerbaar zodat ze gekopieerd kunnen worden.
 
 !
 
--5- **P**ractical value; We need to highlight the incredible value of our product.
+-5- **P**ractical value  
+Benadruk de ongelooflijke waarde van het produkt.
 
 !
 
--6- **S**tories; We need to make the message so integral of the narrative that people can’t tell the story without it.
+-6- **S**tories  
+De boodschap moet een integraal onderdeel van het verhaal zijn.  
+Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
+
 
 
 
