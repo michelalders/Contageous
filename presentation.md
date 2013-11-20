@@ -4,14 +4,9 @@
 
 !
 
-![](contagious.jpeg)
+>You don't have to have millions of dollars to spend on an advertising budget. You just have to get people to talk.
 
-!
-
-
-####>You don't have to have millions of dollars to spend on an advertising budget. You just have to get people to talk.
-
-###STEPPS - Six steps
+**STEPPS - Six steps**
 
 1. **S** 
 2. **T**
@@ -22,8 +17,6 @@
 
 !
 
-![](contagious.jpeg) 
-
 1. **S**ocial currency 
 2. **T**riggers
 3. **E**motion
@@ -32,29 +25,29 @@
 6. **S**tories
 
 !
-1
 
-1. **S**ocial currency; Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.). We geven ze info die ze verder willen verspreiden (hoor mij eens!)
-
-!
-
-2. **T**riggers; Top of mind leads to tip of tongue. Het onderwerp/product moet vaak getriggered worden door de omgeving/context. Dan komt het vaker ter sprake.
+-1- **S**ocial currency; Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.). We geven ze info die ze verder willen verspreiden (hoor mij eens!)
 
 !
 
-3. **E**motion; Emotional things often get shared. focus op emotions ipv op functionaliteit. Negatieve emoties zouden zelfs gebruikt worden.
+-2- **T**riggers; Top of mind leads to tip of tongue. Het onderwerp/product moet vaak getriggered worden door de omgeving/context. Dan komt het vaker ter sprake.
 
 !
 
-4. **P**ublic; Money see money do. Make things public, make them observable, so they can be copied.
+-3- **E**motion; Emotional things often get shared. focus op emotions ipv op functionaliteit. Negatieve emoties zouden zelfs gebruikt worden.
 
 !
 
-5. Practical value; We need to highlight the incredible value of our product.
+
+-4- **P**ublic; Money see money do. Make things public, make them observable, so they can be copied.
 
 !
 
-6. Stories; De boWe need to make the message so integral of the narrative that people can’t tell the story without it.
+-5- **P**ractical value; We need to highlight the incredible value of our product.
+
+!
+
+-6- **S**tories; We need to make the message so integral of the narrative that people can’t tell the story without it.
 
 
 
