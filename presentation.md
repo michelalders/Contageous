@@ -37,10 +37,7 @@ Geef mensen info die ze verder willen verspreiden (hoor mij eens!).
 
 -2- **T**riggers  
 Top of mind leads to tip of tongue.  
-Iets komt vaker ter sprake als het vaker getriggered wordt door de omgeving / context
-
-Het onderwerp/product moet vaak getriggered worden door de omgeving/context.  
-Dan komt het vaker ter sprake.
+Iets komt vaker ter sprake als het vaker getriggered wordt door de omgeving / context.
 
 !
 
