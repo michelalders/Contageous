@@ -28,34 +28,35 @@
 
 -1- **S**ocial currency  
 Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.).  
-We geven ze info die ze verder willen verspreiden (hoor mij eens!)
+Geef mensen info die ze verder willen verspreiden (hoor mij eens!).
 
 !
 
 -2- **T**riggers  
 Top of mind leads to tip of tongue.  
+Iets komt vaker ter sprake als het vaker getriggered wordt door de omgeving / context
+
 Het onderwerp/product moet vaak getriggered worden door de omgeving/context.  
 Dan komt het vaker ter sprake.
 
 !
 
 -3- **E**motion  
-Zaken die mensen raken/emotioneren, worden vaker gedeeld.  
+Iets dat mensen raakt/emotioneert, wordt vaker gedeeld.  
 Focus op emoties ipv op functionaliteit.  
-Zelfs negatieve emoties kunnen gebruikt worden.
+Ook negatieve emoties kunnen gebruikt worden.
 
 !
 
-
 -4- **P**ublic  
-Money see money do. 
+Money see money do.  
 Maak zaken publiek.  
 Maak ze observeerbaar zodat ze gekopieerd kunnen worden.
 
 !
 
 -5- **P**ractical value  
-Benadruk de ongelooflijke waarde van het produkt.
+Benadruk de praktische waarde van het produkt.
 
 !
 
