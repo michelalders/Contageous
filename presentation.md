@@ -34,7 +34,7 @@
 
 !
 
--3- **E**motion; Emotional things often get shared. focus op emotions ipv op functionaliteit. Negatieve emoties zouden zelfs gebruikt worden.
+-3- **E**motion; Emotional things often get shared. Focus op emoties ipv op functionaliteit. Negatieve emoties kunnen zelfs gebruikt worden.
 
 !
 
