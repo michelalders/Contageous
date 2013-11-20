@@ -4,7 +4,8 @@
 
 !
 
->You don't have to have millions of dollars to spend on an advertising budget. You just have to get people to talk.
+>You don't have to have millions of dollars to spend on an advertising budget.  
+You just have to get people to talk.
 
 **STEPPS - Six steps**
 
@@ -16,6 +17,8 @@
 6. **S**
 
 !
+
+**Zo laat je mensen praten:**
 
 1. **S**ocial currency 
 2. **T**riggers
@@ -29,7 +32,7 @@
 -1- **S**ocial currency  
 Mensen moeten het gevoel krijgen insider te zijn (slim, niet dom etc.).  
 Geef mensen info die ze verder willen verspreiden (hoor mij eens!).
-
+	
 !
 
 -2- **T**riggers  
