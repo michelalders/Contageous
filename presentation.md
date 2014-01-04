@@ -3,9 +3,10 @@
 !
 
 
-Project 2 presentatie.!
+
+Project 2 presentatie.!
 Gelukkig nieuwjaar!
-Ik ben Michel Alders, psycholoog.Mens Machine interactie gestudeerdin het onderzoek beland.7 jaar TomTom Exploratief en gebruikersonderzoek gedaan. !
+Ik ben Michel Alders, psycholoog.Mens Machine interactie gestudeerdin het onderzoek beland.7 jaar TomTom Exploratief en gebruikersonderzoek gedaan. !
 Sinds een jaar bij HvA CMD om er voor te zorgen dat er goed onderzoek gedaan wordt.Maar dat valt niet altijd mee…Vandaag sta ik hier om het testen in goede banen te leiden…!
 Het belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.Dus ik loop even de procedures en wizards met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie resultaten boeken met het doen van onderzoek… en dat gaat nooit vanzelf.!
 Laat ik met dat laatste beginnen: Hoe doe je goed onderzoek?Met een goede voorbereiding!En hoe bereid je je goed voor?Door goed na te denken voordat je begint.!Wat is het doel van het product dat ik ga testen?En hoe gaat dat product dat bewerkstelligen?Idealiter heb je bij het ontwerpen van het product al heldere antwoorden op zulke vragen.In de praktijk is een ontwerp nooit zo helder als je zou wensen.Het voorbereiden van een gebruikerstest geeft je de gelegenheid om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
