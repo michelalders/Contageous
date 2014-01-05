@@ -10,6 +10,8 @@
 ##Michel Alders- Mens Machine interactie
 - Onderzoek
 - 7 jaar TomTom 
+
+![Dit is een afbeelding](TomTom Logo.png)
 - Coördinator user lab  !
 
 	##HvASinds ruim een jaar  
@@ -250,11 +252,6 @@ De film nog eens afspelen en laten becommentariëren
 
 Waarom keek je daarnaar?  
 
-!
-!
-
-
-![Dit is een afbeelding](IMG_0827.jpg)
 
 !
 
