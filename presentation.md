@@ -11,7 +11,8 @@
 - Onderzoek
 - 7 jaar TomTom 
 
-![Dit is een afbeelding](TomTom Logo.png)
+![Dit is een afbeelding](TomTomlogo.png)
+
 - Coördinator user lab  !
 
 	##HvASinds ruim een jaar  
