@@ -7,16 +7,15 @@
 !
 #Gelukkig nieuwjaar!
 
-Michel Alders, psycholoogMens Machine interactie Onderzoek 7 jaar TomTom 
-Exploratief en gebruikersonderzoek gedaan  
-Observererend en experimenteel
-!
+Michel Alders- Mens Machine interactie
+- Onderzoek
+- 7 jaar TomTom 
+- coördinator user lab  !
 
 	#HvASinds een jaar  
-Om er voor te zorgen dat er goed onderzoek gedaan wordt.Testen in goede banen leiden…!
+Om er voor te zorgen dat er goed onderzoek gedaan wordt.Testen in goede banen leiden…!
 #User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
-!
-Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek… en dat gaat nooit vanzelf.!
+!Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
 #Agenda1. goed onderzoek doen
 2. user lab procedure
 !
@@ -24,12 +23,14 @@ Michel Alders, psycholoogMens Machine interactie Onderzoek 7 jaar TomTom
 #De helft van het werk**Een goede voorbereiding**!!#Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
 
 Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat voor elkaar krijgen?!#Een draaiboek maken en testen...!
-#Ontwerp 2.0Idealiter heb je bij het ontwerpen van het product al heldere antwoorden op zulke vragen (ontwerp 1.0).  In de praktijk is een ontwerp altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
+#Ontwerp 1.0Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (ontwerp 1.0).  
+In de praktijk is een ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
 - of je hele ontwerp dat altijd voor elkaar krijgt.  
 
 
-!De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-ontwerp 2.0 vorm te geven.!Als je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+!
+#Ontwerp 2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
+Om ontwerp 2.0 vorm te geven.!#SchokAls je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
 #NootHet is de bedoeling dat je verrast wordt / geschokt bent.
 !
 #Student fallacy
@@ -41,7 +42,9 @@ Testen om zelfvertrouwen op te krikken
 - wat is het product
 - Wat wil ik weten
 
-- Hoe kom ik daarachter!#DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
+- Hoe kom ik daarachter!
+#Observeren en experimenteren
+De opzet van je test varieert tussen observeren en experimenteren!#DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
 Wat is het product?Wat beoogt het?Hoe doet het dat?Is het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
 !#Denk hardop?Vraag je de proefpersoon om hardop na te denken?
 !
