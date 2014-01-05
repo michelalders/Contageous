@@ -7,13 +7,13 @@
 !
 #Gelukkig nieuwjaar!
 
-Michel Alders- Mens Machine interactie
+##Michel Alders- Mens Machine interactie
 - Onderzoek
 - 7 jaar TomTom 
 - coördinator user lab  !
 
 	#HvASinds een jaar  
-Om er voor te zorgen dat er goed onderzoek gedaan wordt.Testen in goede banen leiden…!
+Om er voor te zorgen dat er goed onderzoek gedaan wordtTesten in goede banen leiden…!
 #User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
 !Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
 #Agenda1. goed onderzoek doen
@@ -23,14 +23,14 @@ Michel Alders- Mens Machine interactie
 
 #De helft van het werk**Een goede voorbereiding**!!#Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
 
-Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat voor elkaar krijgen?!#Een draaiboek maken en testen...!
-#Ontwerp 1.0Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (ontwerp 1.0).  
-In de praktijk is een ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
-- of je hele ontwerp dat altijd voor elkaar krijgt.  
+Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat product dat voor elkaar krijgen?!#Een draaiboek maken en testen...!
+#Prototype 1.0 Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (prototype 1.0).  
+In de praktijk is het prototype ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
+- of je hele ontwerp dat altijd en overal voor elkaar krijgt.  
 !
-#Ontwerp 2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-Om ontwerp 2.0 vorm te geven.!#SchokAls je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
-#NootHet is de bedoeling dat je verrast wordt / geschokt bent.
+#2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
+Om ontwerp 2.0 vorm te geven.!#SchokHet resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+#NootHet is de bedoeling dat je verrast wordt...
 !
 #Student fallacy
 
@@ -39,19 +39,22 @@ Testen om zelfvertrouwen te verhogen
 Testen eigen werk  
 !
 #Altijd opnieuw
-Vrijwel al het onderzoek dat ik gedaan heb ben ik toch min of meer van scratch begonnen.
-- wat is het product
+Onderzoek bouw je meestal van scratch op.
+- Wat is het product
 - Wat wil ik weten
 
 - Hoe kom ik daarachter!
 #Observeren en experimenteren
 De opzet van je test varieert tussen observeren en experimenteren!#DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
-- Wat is het product?- Wat beoogt het?- Hoe doet het dat?!
+
+Want:  - Wat is het product?  
+- Wat is de inhoud?  - Wat beoogt het?- Hoe doet het dat?!
 #InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
 !#Denk hardop?Vraag je de proefpersoon om hardop na te denken?
 !
 #HardopdenkenHet hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel **aandacht** is er nodig voor de film?!#Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
-**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  #KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
+**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  
+#KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
 #Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
 #Een sociaal psychologisch experiment
@@ -60,7 +63,7 @@ Testen eigen werk
 - conformeren
 - sociale druk
 - discriminatie
-- stereotypering- werkt de knop 'Bestel'?
+- stereotypering- De bedoeling is om te testen of je de knop 'Bestel' begrijpt?
 !#ValkuilBij een gebruikerstest lok je mensen in de val  
 Je verleid ze om op de meest cruciale onderdelen:
 - fouten te maken, 
@@ -75,7 +78,7 @@ Testen eigen werk
 #Ready to go?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
 #Vraag en antwoord
 - wat wil ik weten - **Onderzoeksvragen**
-- hoe kom ik dat slim te weten - **taken en gebruikersscenario**
+- hoe kom ik dat slim te weten - **Taken en gebruikersscenario**
 
 ~Iteratief; 
 !
@@ -90,7 +93,7 @@ Maak een goed lopend draaiboek
 !
 #Co-discovery
 
-Als je 2 mensen samen laat kijken naar een film em van commentaar laat voorzien?
+Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?
 
 !
 
@@ -110,25 +113,41 @@ Vragen stellen die van belang kunnen zijn
 **Taak**: bekijk de film
 
 **Scenario** (wat je de testpersoon vertelt): Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
-Nu krijg je een email van een vriend
-"Moet je hier eens naar kijken [link]. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
+Nu krijg je een email van een vriend met een link en deze tekst:  
+"Moet je hier eens naar kijken. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
 
 !
 ##Taak / instructie:
-**Niet zo**:Kun je me laten zien hoe je de "GJKprinter BW450TXJ" bestelt?
+**Niet zo**:Kun je me laten zien hoe je de printer "BW450TXJ" bestelt?
 **Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. Kun je dat eens proberen?
 !**Niet zo**: Kun je laten zien hoe je inlogt?**Maar zo**: Kun je laten zien hoe je X koopt? (inloggen is noodzakelijk; hoe reageert de gebruiker)!
 #Prompts
-Jouw reacties zijn heel bepalend.
+Jouw reacties zijn heel bepalend.  
+Hier gaat het vaak mis.
+!
+#Niet zo
+- Wat is een UID?  
+- dat is een Unique Identifier. Een nummer dat op het product staat.
 
-- Wat betekent dit?  
-Wat denk je dat het betekent?  
+!
 
-- Geen idee  
+#Maar zo
+
+Wat is een UID?  
+
+- Geen flauw idee  
+
+
+
 Hoe zou je dit oplossen als ik er niet was?  
 
 - Ik zou de helpdesk bellen  
-Oke, de helpdesk zegt dat het om het ID nummer gaat dat op de achterkant staat
+- Ik zou de helpdesk mailen
+- Ik zou deze vraag overslaan
+- Ik zou zomaar wat invullen
+- Ik zou iets anders gaan doen
+
+Oke, je antwoord is heel nuttig... 
 
 !
 #Prompts
@@ -160,7 +179,12 @@ Onduidelijk gedrag:
 ##Achteraf / Exit interview:
 Wat vraag je als je een film hebt laten zien???
 
-#EN?
+**En?
+**
+
+!
+##Achteraf / Exit interview:
+En?  
 
 of:  
 
@@ -174,6 +198,21 @@ Of:
 Kun je vertellen wat de kern van de film is
 
 !
+
+#Of
+Wanneer  
+Wat  
+Wie  
+Waarom  
+Welke  
+Hoe vaak  
+etc.  
+
+!
+
+#En/Of
+De film nog eens spelen en laten becommentariëren
+
 
 # Kortom
 Hoe je test er precies uit komt te zien, is afhankelijk van de INHOUD
@@ -264,3 +303,6 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 
 Er is een template (maar...)!
 ##Userlab
+1. alternatieven
+2. het lab
+
