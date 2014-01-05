@@ -8,33 +8,34 @@
 #Gelukkig nieuwjaar!
 
 Michel Alders, psycholoogMens Machine interactie Onderzoek 7 jaar TomTom 
-Exploratief en gebruikersonderzoek gedaan.  
-observerernd en experimenteel
+Exploratief en gebruikersonderzoek gedaan  
+Observererend en experimenteel
 !
 
 	#HvASinds een jaar  
-Om er voor te zorgen dat er goed onderzoek gedaan wordt.Dat valt niet altijd mee…Testen in goede banen leiden…!
+Om er voor te zorgen dat er goed onderzoek gedaan wordt.Testen in goede banen leiden…!
 #User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
 !
 Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek… en dat gaat nooit vanzelf.!
-1. goed onderzoek doen
+#Agenda1. goed onderzoek doen
 2. user lab procedure
 !
 
-#De helft van het werk**Een goede voorbereiding**!!
-#En hoe bereid je je goed voor?Door goed na te denken voordat je begint.!Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat voor elkaar krijgen?!
+#De helft van het werk**Een goede voorbereiding**!!#Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
+
+Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat voor elkaar krijgen?!#Een draaiboek maken en testen...!
 #Ontwerp 2.0Idealiter heb je bij het ontwerpen van het product al heldere antwoorden op zulke vragen (ontwerp 1.0).  In de praktijk is een ontwerp altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
 - of je hele ontwerp dat altijd voor elkaar krijgt.  
 
 
 !De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-ontwerp 2.0 vorm te geven.!Als je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.Het is de bedoeling dat je verrast wordt / geschokt bent.
-!
+ontwerp 2.0 vorm te geven.!Als je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+#NootHet is de bedoeling dat je verrast wordt / geschokt bent.
+!
 #Student fallacy
 Testen eigen werk  
 Testen om zelfvertrouwen op te krikken  
-
-!
+!
 #Altijd opnieuw
 Vrijwel al het onderzoek dat ik gedaan heb ben ik toch min of meer van scratch begonnen.
 - wat is het product
