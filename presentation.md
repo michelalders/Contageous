@@ -391,8 +391,8 @@ Dan weet je waar we het over hebben
 ###Buiten het lab testen
 
 QuickTime Player  
-![Dit is een afbeelding](QT1)  
-![Dit is een afbeelding](QT2)  
+![Dit is een afbeelding](QT1.png)  
+![Dit is een afbeelding](QT2.png)  
 ![Dit is een afbeelding](QT3.png)  
 http://magitest.com
 
