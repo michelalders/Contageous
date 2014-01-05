@@ -1,57 +1,74 @@
-#Project 2 presentatie. Gebruikerstest#
+#Project 2 Gebruikerstest#
 
 
 
 !
 #Gelukkig nieuwjaar!
 
-Michel Alders, psycholoogMens Machine interactie gestudeerdin het onderzoek beland7 jaar TomTom 
-Exploratief en gebruikersonderzoek gedaan. !
+Michel Alders, psycholoogMens Machine interactie Onderzoek 7 jaar TomTom 
+Exploratief en gebruikersonderzoek gedaan.  
+observerernd en experimenteel
+!
 
 	#HvASinds een jaar  
-Om er voor te zorgen dat er goed onderzoek gedaan wordt.Dat valt niet altijd mee…Vandaag sta ik hier om het testen in goede banen te leiden…!
-Het belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
+Om er voor te zorgen dat er goed onderzoek gedaan wordt.Dat valt niet altijd mee…Testen in goede banen leiden…!
+#User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
 !
-Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie resultaten boeken met het doen van onderzoek… en dat gaat nooit vanzelf.!
-Laat ik met dat laatste beginnen: Hoe doe je goed onderzoek?Met een goede **voorbereiding**!!
-En hoe bereid je je goed voor?Door goed na te denken voordat je begint.!Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat bewerkstelligen?Idealiter heb je bij het ontwerpen van het product al heldere antwoorden op zulke vragen.In de praktijk is een ontwerp nooit zo helder als je zou wensen.Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
-- of je hele ontwerp dat altijd voor elkaar krijgt.
+Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek… en dat gaat nooit vanzelf.!
+1. goed onderzoek doen
+2. user lab procedure
+!
 
-!
-De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.!Als je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.Het is de bedoeling dat je verrast wordt / geschokt bent.
-!Vrijwel al het onderzoek dat ik gedaan heb ben ik toch min of meer van scratch begonnen.
+#De helft van het werk**Een goede voorbereiding**!!
+#En hoe bereid je je goed voor?Door goed na te denken voordat je begint.!Wat is het **doel** van het product dat ik ga testen?En **hoe** gaat dat product dat voor elkaar krijgen?!
+#Ontwerp 2.0Idealiter heb je bij het ontwerpen van het product al heldere antwoorden op zulke vragen (ontwerp 1.0).  In de praktijk is een ontwerp altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
+- of je hele ontwerp dat altijd voor elkaar krijgt.  
+
+
+!De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
+ontwerp 2.0 vorm te geven.!Als je een test serieus aanpakt dan is het resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.Het is de bedoeling dat je verrast wordt / geschokt bent.
+!
+#Student fallacy
+Testen eigen werk  
+Testen om zelfvertrouwen op te krikken  
+
+!
+#Altijd opnieuw
+Vrijwel al het onderzoek dat ik gedaan heb ben ik toch min of meer van scratch begonnen.
 - wat is het product
-- Wat willen ik weten
+- Wat wil ik weten
 
-- Hoe komen ik daarachter!Voorbeeld en tevens DISCLAIMER.Wat ik jullie vandaag te bieden heb, zijn louter algemeenheden. Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.Wat is het product?Wat beoogt het?Hoe doet het dat?Is het bijvoorbeeld interactief?!Vraag je de proefpersoon om hardop na te denken?
+- Hoe kom ik daarachter!#DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
+Wat is het product?Wat beoogt het?Hoe doet het dat?Is het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
+!#Denk hardop?Vraag je de proefpersoon om hardop na te denken?
 !
-Het hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel aandacht is er nodig voor de film?!Bij het film kijken kan ik me voorstellen dat je aangeeft:
-**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  Het is dus zaak om goed na te denken over  - Het doel van het product  
+#HardopdenkenHet hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel **aandacht** is er nodig voor de film?!#Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
+**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  #KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
-Slim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.Slim testen is als een sociaal psychologisch experiment. 
+#Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
+#Een sociaal psychologisch experiment
 Daar vertel je zelden de ware bedoeling van een onderzoek 
 
 - conformeren
 - sociale druk
 - discriminatie
-- stereotypering!Bij een gebruikerstest lok je mensen in de val.Je verleid ze om op de meest cruciale onderdelen:
+- stereotypering!#ValkuilBij een gebruikerstest lok je mensen in de val.  
+Je verleid ze om op de meest cruciale onderdelen:
 - fouten te maken, 
 - je product niet te snappen
 
 !
-Slim testen betekent vaak dat je de testpersoon
+#Set the stage...Slim testen betekent vaak dat je de testpersoon
 - zo naturel als mogelijk in aanraking probeert te krijgen met je product
-- naief als een gebruiker die thuis achter zijn computer zit
+- naïef als een gebruiker die thuis achter zijn computer zit
  !
-Hoe?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  !Een goede voorbereiding van de test dus.
-Goed nadenken over 
-- wat wil ik weten - Onderzoeksvragen
-- hoe kom ik dat slim te weten - taken en gebruikers scenario
+#Ready to go?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
+#Scenario's
+- wat wil ik weten - **Onderzoeksvragen**
+- hoe kom ik dat slim te weten - **taken en gebruikersscenario**
+!
 
-Niet perse in deze volgorde... je mag iteratief werken!
-!
-
-###Opzet test
+##Opzet test
 Hoe voer je de test uit?  
 Maak een goed lopend draaiboek  
 
@@ -68,7 +85,7 @@ Of werkt het beter om 2 mensen samen te laten kijken en de film van commentaar t
 
  
 
-###Introductie
+##Introductie
 Persoon in de juiste mindset krijgen.
 Vragen stellen die van belang kunnen zijn  
 
@@ -78,7 +95,7 @@ Vragen stellen die van belang kunnen zijn
 !
 
 
-###Taak / instructie:
+##Taak / instructie:
 **Niet zo**:Kun je me laten zien hoe je de GJKprinter BW450TXJ bestelt?
 **Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. KUn je laten zien hoe je dat doet
 !**Niet zo**: Kun je laten zien hoe je inlogt**Maar zo**: Kun je laten zien hoe je iets koopt. (inloggen is noodzakelijk; hoe reageert de gebruiker)!
