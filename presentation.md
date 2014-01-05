@@ -12,85 +12,85 @@
 - 7 jaar TomTom 
 - coördinator user lab  !
 
-	#HvASinds een jaar  
+	##HvASinds een jaar  
 Om er voor te zorgen dat er goed onderzoek gedaan wordtTesten in goede banen leiden…!
-#User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
+##User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
 !Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
 #Agenda1. goed onderzoek doen
 2. user lab procedure
 
 !
 
-#De helft van het werk**Een goede voorbereiding**!!#Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
+##De helft van het werk**Een goede voorbereiding**!!##Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
 
-Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat product dat voor elkaar krijgen?!#Een draaiboek maken en testen...- Chronologisch overzicht van de test (vooraf, tijdens, achteraf)
+Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat product dat voor elkaar krijgen?!###Een draaiboek maken en testen...- Chronologisch overzicht van de test (vooraf, tijdens, achteraf)
 - Wat moet er allemaal gebeuren (checklist)
 
 Er is een template (maar...)!
-#Prototype 1.0 Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (prototype 1.0).  
+###Prototype 1.0 Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (prototype 1.0).  
 In de praktijk is het prototype ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
 - of je hele ontwerp dat altijd en overal voor elkaar krijgt.  
 !
-#2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-Om ontwerp 2.0 vorm te geven.!#SchokHet resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
-#NootHet is de bedoeling dat je verrast wordt...
+###2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
+Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+###NootHet is de bedoeling dat je verrast wordt...
 !
-#Student fallacy
+###Student fallacy
 
 Testen om zelfvertrouwen te verhogen  
 
 Testen eigen werk  
 !
-#Altijd opnieuw
+###Altijd opnieuw
 Onderzoek bouw je meestal van scratch op.
 - Wat is het product
 - Wat wil ik weten
 
 - Hoe kom ik daarachter!
-#Observeren en experimenteren
+###Observeren en experimenteren
 De opzet van je test varieert tussen observeren en experimenteren  
-!#Where are you now?
+!###Where are you now?
 waar jullie nu zitten weet ik niet.Maar:  •	agile   •	lean  •	iterative  •	minimal  
-Alles wijst erop dat het de bedoeling is om snel met resultaten te komen.  !#DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
+Alles wijst erop dat het de bedoeling is om snel met resultaten te komen.  !###DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
 
 Want:  - Wat is het product?  
 - Wat is de inhoud?  - Wat beoogt het?- Hoe doet het dat?!
 
-#InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
-!#Denk hardop?Vraag je de proefpersoon om hardop na te denken?
+###InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
+!###Denk hardop?Vraag je de proefpersoon om hardop na te denken?
 !
-#HardopdenkenHet hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel **aandacht** is er nodig voor de film?!#Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
+###HardopdenkenHet hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel **aandacht** is er nodig voor de film?!###Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
 **“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  
-#KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
+##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
-#Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
-#Een sociaal psychologisch experiment
+##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
+###Een sociaal psychologisch experiment
 Je vertelt zelden de ware bedoeling van een onderzoek
 
 - conformeren
 - sociale druk
 - discriminatie
 - stereotypering- De bedoeling is om te testen of je de knop 'Bestel' begrijpt?
-!#ValkuilBij een gebruikerstest lok je mensen in de val  
+!###ValkuilBij een gebruikerstest lok je mensen in de val  
 Je verleid ze om op de meest cruciale onderdelen:
 - fouten te maken, 
-- je product niet te snappen
+- je product niet te begrijpen
 
 !
-#Set the stage...Slim testen betekent vaak dat je de testpersoon
+###Set the stage...Slim testen betekent vaak dat je de testpersoon
 - zo naturel als mogelijk in aanraking probeert te krijgen met je product
 - naïef als een gebruiker die thuis achter zijn computer zit
 !
-#Hoe naïef kun je zijn? !
-#Ready to go?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
-#Vraag en antwoord
+###Hoe naïef kun je zijn? !
+##Ready to go?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
+###Vraag en antwoord
 - wat wil ik weten - **Onderzoeksvragen**
 - hoe kom ik dat slim te weten - **Taken en gebruikersscenario**
 
 ~Iteratief; 
 !
 
-##Opzet test
+###Opzet test
 Hoe voer je de test uit?  
 Maak een goed lopend draaiboek  
 
@@ -98,7 +98,7 @@ Maak een goed lopend draaiboek
 - Proefdraaien met een groepsgenoot  
 
 !
-#Co-discovery
+####Co-discovery
 
 Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?
 
@@ -124,24 +124,24 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 "Moet je hier eens naar kijken. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
 
 !
-##Taak instructie
+###Taak instructie
 **Niet zo**: Wat vind je hiervan?  
 **Maar zo**: Wat is dit volgens jou?
-##Taak / instructie:
+###Taak / instructie:
 **Niet zo**:Kun je me laten zien hoe je de printer "BW450TXJ" bestelt?
 **Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. Kun je dat eens proberen?
 !**Niet zo**: Kun je laten zien hoe je inlogt?**Maar zo**: Kun je laten zien hoe je X koopt? (inloggen is noodzakelijk; hoe reageert de gebruiker)!
-#Prompts
+###Prompts
 Jouw reacties zijn heel bepalend.  
 Hier gaat het vaak mis.
 !
-#Niet zo
+####Niet zo
 - Wat is een UID?  
 - dat is een Unique Identifier. Een nummer dat op het product staat.
 
 !
 
-#Maar zo
+####Maar zo
 
 Wat is een UID?  
 
@@ -160,7 +160,7 @@ Hoe zou je dit oplossen als ik er niet was?
 Oke, je antwoord is heel nuttig... 
 
 !
-#Prompts
+###Prompts
 
 
 
@@ -176,7 +176,7 @@ Wat moet ik doen?
 
 !
 
-#Prompts
+###Prompts
 Onduidelijk gedrag:  
 - Wat denk je  
 - Waar kijk je naar  
@@ -186,17 +186,22 @@ Onduidelijk gedrag:
 
 !
 
+###Helpen?
+De testpersoon helpen kan bv:  
+- als het om een bug gaat  
+- als het te lang duurt  
+- als er te ver afgedwaald wordt  
+!
 ##Achteraf / Exit interview:
 Wat vraag je als je een film hebt laten zien???
 
-**En?
-**
+!
+
+#En? 
+
 
 !
-##Achteraf / Exit interview:
-En?  
-
-of:  
+###Of:
 
 Kun je me vertellen wat je gezien hebt?  
 
@@ -209,7 +214,7 @@ Kun je vertellen wat de kern van de film is
 
 !
 
-#Of
+###Of
 Wanneer  
 Wat  
 Wie  
@@ -220,8 +225,10 @@ etc.
 
 !
 
-#En/Of
-De film nog eens spelen en laten becommentariëren  
+###En/Of
+De film nog eens afspelen en laten becommentariëren   
+
+waarom keek je daarnaar?  
 
 !
 
@@ -232,21 +239,21 @@ Hoe je test er precies uit komt te zien, is afhankelijk van de **INHOUD**
 
 !
 
-#De cijfers!
-Resultaten zijn **observaties**, maar cijfers zijn ook  
+##De cijfers!
+Resultaten zijn **observaties**, maar cijfers zijn ook handig  
 
 
 - rapportcijfers bijvoorbeeld
 
 !
 
-#NPS
+###NPS
 - Net promoter scale (variant); "Hoe waarschijnlijk is het dat je dit filmpje aanbeveelt aan een vriend of collega? 0 =  helemaal niet waarschijnlijke en 10 ijk"
 
 ![Dit is een afbeelding](NPS.png)
 
 !  
-#SUS
+###SUS
 System Usability Scale (10 vragen op  een 5 puntsschaal)
 
 ![Dit is een afbeelding](Likert5.jpg)
@@ -271,11 +278,16 @@ I needed to learn a lot of things before I could get going with this system.
 
 
 
-#Straks testen in het user lab (of niet)
+#Straks testen in het user lab (of niet)  
 
+
+#Filmpje user lab
 !
 
-#Film user lab
+#Intermezzo?
+de INHOUD
+
+!
  
 ##Jonah Berger
 ##Contagious: Why things catch on
