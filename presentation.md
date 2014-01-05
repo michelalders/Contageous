@@ -48,39 +48,65 @@ Michel Alders, psycholoogMens Machine interactie gestudeerdin het onderzoek
 - wat wil ik weten - Onderzoeksvragen
 - hoe kom ik dat slim te weten - taken en gebruikers scenario
 
-Niet perse in deze volgorde... je mag iteratief werken!
+Niet perse in deze volgorde... je mag iteratief werken!
+!
 
+###Opzet test
+Hoe voer je de test uit?  
+Maak een goed lopend draaiboek  
+
+- Doorloop het mentaal  
+- Proefdraaien met een groepsgenoot  
+
+!
+
+1 proefpersoon?  
+Of werkt het beter om 2 mensen samen te laten kijken en de film van commentaar te voorzien?
+
+
+!
+
+ 
 
 ###Introductie
 Persoon in de juiste mindset krijgen.
-Zo weinig mogelijk informatie weggeven
+Vragen stellen die van belang kunnen zijn  
+
+- eventueel gebruiken voor een scenario on the fly
+
 
 !
+
+
 ###Taak / instructie:
 **Niet zo**:Kun je me laten zien hoe je de GJKprinter BW450TXJ bestelt?
-**Maar zo**: Je wilt een klein printertje bestellen voor op je tafel zodat je niet over het netwerk hoeft te printen
+**Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. KUn je laten zien hoe je dat doet
 !**Niet zo**: Kun je laten zien hoe je inlogt**Maar zo**: Kun je laten zien hoe je iets koopt. (inloggen is noodzakelijk; hoe reageert de gebruiker)!
 
 **Onderzoeksvraag**: begrijpt de doelgroep mijn video
 
 **Taak**: bekijk de film
 
-**Scenario** (wat je de testpersoon vertelt): Je hebt een vakantie gepland met vrienden. Lekker naar het Spanje. Lekker goedkoop appartement.
-Nu sturen krijg je een email van een vriend
+**Scenario** (wat je de testpersoon vertelt): Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
+Nu krijg je een email van een vriend
 "Moet je hier eens naar kijken [link]. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
 !
-###Achteraf:
+
+###Achteraf:
 Wat vraag je als je een film hebt laten zien???
 
 #EN?
 
-of:
+of:  
 
-Kun je me vertellen wat je gezien hebt?
+Kun je me vertellen wat je gezien hebt?  
 
-of:
+of:  
 
-Wat heb je gezien?
+Wat heb je gezien?  
+
+Of:  
+Kun je vertellen wat de kern van de film is
 
 !
 
