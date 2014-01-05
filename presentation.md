@@ -10,38 +10,51 @@
 ##Michel Alders- Mens Machine interactie
 - Onderzoek
 - 7 jaar TomTom 
-- coördinator user lab  !
+- Coördinator user lab  !
 
-	##HvASinds een jaar  
+	##HvASinds ruim een jaar  
 Om er voor te zorgen dat er goed onderzoek gedaan wordtTesten in goede banen leiden…!
-##User labHet belangrijkste voor vandaag is dat jullie zodadelijk in staat zijn om in het usability lab te testen.
+##User labHet belangrijkste voor vandaag is dat jullie zo dadelijk in staat zijn om in het user lab te testen.
 !Dus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
 #Agenda1. goed onderzoek doen
 2. user lab procedure
 
 !
 
-##De helft van het werk**Een goede voorbereiding**!!##Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
+#Goed onderzoek doen##De helft van het werk**Een goede voorbereiding**!!##Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
 
 Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat product dat voor elkaar krijgen?!###Een draaiboek maken en testen...- Chronologisch overzicht van de test (vooraf, tijdens, achteraf)
-- Wat moet er allemaal gebeuren (checklist)
-
-Er is een template (maar...)!
+- Checklist - Wat moet wanneer  
+	- Gezegd
+	- Gedaan  
+Er is een template maar...!
 ###Prototype 1.0 Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (prototype 1.0).  
-In de praktijk is het prototype ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  Het voorbereiden van een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
+Een prototype ontwerp (zeker 1.0) altijd voor verbetering vatbaar.  
+Een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken en nog eens af te vragen - wat je nu eigenlijk wilt bereiken en
 - of je hele ontwerp dat altijd en overal voor elkaar krijgt.  
 !
+####De gebruikerstest als ontwerptool  
+!
+
 ###2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat zo goed als altijd **schokkend**Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
 ###NootHet is de bedoeling dat je verrast wordt...
 !
 ###Student fallacy
 
+Vooral bij het testen van eigen werk:  
+
 Testen om zelfvertrouwen te verhogen  
 
-Testen eigen werk  
+De wil om positieve resultaten te krijgen.  
+
 !
-###Altijd opnieuw
+
+###Perfecte wereld?
+
+Als die bestaat dan bestaat er ook een perfecte test
+
+###Altijd opnieuw
 Onderzoek bouw je meestal van scratch op.
 - Wat is het product
 - Wat wil ik weten
@@ -50,7 +63,8 @@ Testen eigen werk
 ###Observeren en experimenteren
 De opzet van je test varieert tussen observeren en experimenteren  
 !###Where are you now?
-waar jullie nu zitten weet ik niet.Maar:  •	agile   •	lean  •	iterative  •	minimal  
+Waar jullie nu zitten weet ik niet.  Maar:    
+•	agile   •	lean  •	iterative  •	minimal  
 Alles wijst erop dat het de bedoeling is om snel met resultaten te komen.  !###DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
 
 Want:  - Wat is het product?  
@@ -59,8 +73,10 @@ Want:  - Wat is het product?
 ###InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
 !###Denk hardop?Vraag je de proefpersoon om hardop na te denken?
 !
-###HardopdenkenHet hardopdenk protocol is dat je de testpersoon stimuleert om zijn of haar gedachten te verbaliseren tijdens het uitvoeren van een taak.Bij het verkennen van een website is dat gebruikelijk.Maar als het de taak is om een filmpje te kijken…Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.Hangt af van de film… hoeveel **aandacht** is er nodig voor de film?!###Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
-**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!  
+###HardopdenkenVerbaliseer je gedachten tijdens de taak.  Maar als de taak een filmpje kijken is?  Wil je dan wel dat ze er doorheen praten?Misschien wel, misschien niet.  Hangt af van de film…   
+Hoeveel **aandacht** is er nodig voor de film?!###Live commentaarBij het film kijken kan ik me voorstellen dat je aangeeft:
+**“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!
+  
 ##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
 ##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
@@ -82,7 +98,7 @@ Want:  - Wat is het product?
 - naïef als een gebruiker die thuis achter zijn computer zit
 !
 ###Hoe naïef kun je zijn? !
-##Ready to go?- De juiste introductie  - De juiste instructie / taak  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
+##Ready to test?- De juiste introductie  - De juiste instructies / taken  - De juiste vragen achteraf  Een goede voorbereiding van de test dus.!
 ###Vraag en antwoord
 - wat wil ik weten - **Onderzoeksvragen**
 - hoe kom ik dat slim te weten - **Taken en gebruikersscenario**
@@ -115,7 +131,7 @@ Vragen stellen die van belang kunnen zijn
 !
 ##De test
 
-**Onderzoeksvraag**: begrijpt de doelgroep mijn video
+**Onderzoeksvraag**: begrijpt de doelgroep de boodschap van mijn video
 
 **Taak**: bekijk de film
 
@@ -124,30 +140,36 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 "Moet je hier eens naar kijken. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
 
 !
-###Taak instructie
+###Taak instructie  
+
 **Niet zo**: Wat vind je hiervan?  
 **Maar zo**: Wat is dit volgens jou?
-###Taak / instructie:
+!
+###Taak / instructie:  
+
 **Niet zo**:Kun je me laten zien hoe je de printer "BW450TXJ" bestelt?
 **Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. Kun je dat eens proberen?
-!**Niet zo**: Kun je laten zien hoe je inlogt?**Maar zo**: Kun je laten zien hoe je X koopt? (inloggen is noodzakelijk; hoe reageert de gebruiker)!
+!**Niet zo**: Kun je laten zien hoe je inlogt?  
+**Maar zo**: Kun je laten zien hoe je X koopt? (inloggen is noodzakelijk; hoe reageert de gebruiker)!
 ###Prompts
 Jouw reacties zijn heel bepalend.  
 Hier gaat het vaak mis.
-!
+####Regel
+Zeg liever te weinig dan teveel  
+!
 ####Niet zo
 - Wat is een UID?  
-- dat is een Unique Identifier. Een nummer dat op het product staat.
+Dat is een Unique Identifier. Een nummer dat op het product staat.
 
 !
 
 ####Maar zo
 
-Wat is een UID?  
+- Wat is een UID?  
+
+Wat denk jezelf?  
 
 - Geen flauw idee  
-
-
 
 Hoe zou je dit oplossen als ik er niet was?  
 
@@ -162,13 +184,12 @@ Oke, je antwoord is heel nuttig...
 !
 ###Prompts
 
-
-
 Wat moet ik doen?  
 
 - Wat zou je doen als ik niet naast je zat    
 - Wat zou je doen als je thuis was  
-- Ik wil graag dat je doet wat je normaal gesproken doet  
+- Ik wil graag dat je doet wat je normaal gesproken doet   
+
 
 
 
@@ -178,6 +199,7 @@ Wat moet ik doen?
 
 ###Prompts
 Onduidelijk gedrag:  
+
 - Wat denk je  
 - Waar kijk je naar  
 - Wat doe je nu  
@@ -205,12 +227,9 @@ Wat vraag je als je een film hebt laten zien???
 
 Kun je me vertellen wat je gezien hebt?  
 
-of:  
+###of:  
 
-Wat heb je gezien?  
-
-Of:  
-Kun je vertellen wat de kern van de film is
+Kun je vertellen waar de film over gaat
 
 !
 
@@ -228,10 +247,16 @@ etc.
 ###En/Of
 De film nog eens afspelen en laten becommentariëren   
 
-waarom keek je daarnaar?  
+
+Waarom keek je daarnaar?  
 
 !
+!
 
+
+![Dit is een afbeelding](IMG_0827.jpg)
+
+!
 
 
 # Kortom
@@ -248,18 +273,19 @@ Resultaten zijn **observaties**, maar cijfers zijn ook handig
 !
 
 ###NPS
-- Net promoter scale (variant); "Hoe waarschijnlijk is het dat je dit filmpje aanbeveelt aan een vriend of collega? 0 =  helemaal niet waarschijnlijke en 10 ijk"
+- Net promoter scale (variant); "Hoe waarschijnlijk is het dat je dit filmpje aanbeveelt aan een vriend of collega?  
 
-![Dit is een afbeelding](NPS.png)
+0  =  helemaal niet waarschijnlijk  
+10 =  extreem waarschijnlijk  
+
+![Dit is een afbeelding](NPS.png)  
 
 !  
+
 ###SUS
 System Usability Scale (10 vragen op  een 5 puntsschaal)
 
-![Dit is een afbeelding](Likert5.jpg)
-
-
-
+![Dit is een afbeelding](Likert5.jpg)  
 
 
 I think that I would like to use this system frequently.  
