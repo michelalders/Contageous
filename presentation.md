@@ -277,7 +277,8 @@ Resultaten zijn **observaties**, maar cijfers zijn ook handig
 
 ![Dit is een afbeelding](NPS.png)  
 
-!  
+
+!
 
 ###SUS
 System Usability Scale (10 vragen op  een 5 puntsschaal)
