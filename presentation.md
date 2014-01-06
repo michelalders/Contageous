@@ -6,7 +6,7 @@
 
 !
 #Gelukkig nieuwjaar!
-##Michel Alders- Mens Machine Interactie / Onderzoek  
+####Michel Alders Mens Machine Interactie / Onderzoek  
 ![logo](TomTomlogo.png)
 
 !	##HvARuim een jaar  
@@ -25,7 +25,7 @@
 
 
 
-- Wat is het **doel** van het Minimal Viable Product (MVP)dat ik ga testen?  
+- Wat is het **doel** van het Minimal Viable Product (MVP) dat ik ga testen?  
 
 - Welke **aspecten** zijn belangrijk?  
   - En **hoe** gaat het MVP dat voor elkaar krijgen?  
@@ -39,13 +39,13 @@
 Er is een template maar...
 !
 #[Testopzet template](Voorbeeld Testplan_simpel)
-!!
+!
 ###Prototype 1.0 Doel en aard MVP zijn bekend  
-Altijd voor verbetering vatbaar  
+Maar... er is altijd ruimte voor verbetering    
 !
 ####De gebruikerstest als ontwerptool  
 !###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
-####Kill your darlings...   
+	   
 ![](trash.png) 
   
 !
@@ -72,33 +72,26 @@ Als die bestaat dan bestaat er ook een perfecte test
 - Wat wil ik weten
 
 - Hoe kom ik daarachter!
-###Observeren en experimenteren
-De opzet van je test varieert tussen observeren en experimenteren  
-!###Where are you now?
+###Where are you now?
 Waar jullie nu zitten weet ik niet.  Maar:    
 •	agile   •	lean  •	iterative  •	minimal  
 !###DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
-
-Want:  - Wat is het product?  
-- Wat is de inhoud?  - Wat beoogt het?- Hoe doet het dat?!
 ![http://ericasadun.com/wp-content/uploads/2013/04/lorem.png](lorem.png)
 !
 
 
-###InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
-!###Denk hardop?Vraag je de proefpersoon om hardop na te denken?
-!###HardopdenkenVerbaliseer je gedachten tijdens de taak.  ![](tv.png)  Maar als de taak een filmpje kijken is?  Wil je dan wel dat ze er doorheen praten? Hangt af van de film…   
-Hoeveel **aandacht** is er nodig voor de film?!###Live commentaarBij film kan ik me voorstellen dat je aangeeft:
+###InteractiefIs het bijvoorbeeld interactief?!###Denk hardop?Vraag je de proefpersoon om hardop na te denken?
+!###HardopdenkenVerbaliseer je gedachten tijdens het TV kijken.  ![](tv.png)  !###Live commentaarBij film kan ik me voorstellen dat je aangeeft:
 **“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!
 
 ##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
-##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je prototype.!  
+##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan cruciale aspecten van je prototype.  !
 
 ###Een sociaal psychologisch experiment
 Je vertelt zelden de ware bedoeling van een onderzoek  
-conformeren /sociale druk / discriminatie /stereotypering  
-- De bedoeling is om te testen of je de knop 'Bestel' begrijpt  
+
+![](Bestelknop.jpg)- We testen of je snapt dat "Bestel NU" de koopknop is.
 
 !###ValkuilBij een gebruikerstest lok je mensen in de val  
 
@@ -111,10 +104,8 @@ Zonder waarschuwing
 - je product niet te begrijpen
 
 !
-###Naturel
-Testpersoon  
-- zo naturel als mogelijk in aanraking probeert te krijgen met je product  
-- naïef als een gebruiker die thuis achter zijn computer zit
+###Testpersoon- zo naturel als mogelijk in aanraking probeert te krijgen met je product  
+- **naïef** als een gebruiker die thuis achter zijn computer zit
 !
 ###Hoe naïef kun je zijn?![](good.png)   
 Doelgroep testen is best  
@@ -145,13 +136,15 @@ Maak een goed lopend draaiboek
 
 Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?   
 
-![www.cbc.ca](co.jpg))  
+![www.cbc.ca](co.jpg)    
 Wiens ogen worden getraceerd?
 
-! 
+!
+ 
 ##Introductie
 Persoon in de juiste mindset krijgen.  
-Interview
+
+Interview  
 
 - eventueel gebruiken voor een scenario on the fly...
 
@@ -160,10 +153,12 @@ Interview
 
 **Onderzoeksvraag**: begrijpt de doelgroep de boodschap van mijn video
 
-**Taak**: bekijk de film
+**Taak**: bekijk de film  
+
 !
 
-**Scenario** (wat je de testpersoon vertelt): Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
+**Scenario** (wat je de testpersoon vertelt):  
+Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
 Nu krijg je een email van een vriend met een link en deze tekst:  
 
 "Moet je hier eens naar kijken. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
@@ -176,11 +171,11 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 ![](bol.png)
 
 **Niet zo**:Kun je me laten zien hoe je "Naar de actie" gaat?
-**Maar zo**: Je wilt kijken of er leuke aanbiedingen zijn?
+**Maar zo**: Je wilt kijken of er leuke aanbiedingen zijn. Hoe zou je dat doen?  
 !###Taak / instructie:  
 
 **Niet zo**: Kun je laten zien hoe je inlogt?  
-**Maar zo**: Kun je laten zien hoe je X koopt? (inloggen is noodzakelijk; hoe reageert de gebruiker)!
+**Maar zo**: Kun je laten zien hoe een plaats reserveert?  !
 ###Prompts
 Jouw reacties zijn heel bepalend.  
 Hier gaat het vaak mis.  
@@ -198,13 +193,18 @@ proefleider: Dat is een Unique Identifier. Een nummer dat op het product staat.
 
 testpersoon: Wat is een UID?  
 
-proefleider: Wat denk jezelf?  
+proefleider: Wat denk je?  
 
-testpersoon: Geen flauw idee  
+testpersoon: Geen idee  
 
-proefleider: Hoe zou je dit oplossen als ik er niet was?  
+proefleider:  
+
+testpersoon: Moet ik zomaar iets invullen?   
+
+Proefleider: Wat zou je doen als ik er niet was?   
 
 !
+
 ####Waardevolle informatie verzamelen
 
 Wat testpersoon zegt is waardevol:  
@@ -240,8 +240,10 @@ Onduidelijk gedrag:
 - Wat denk je  
 - Waar kijk je naar  
 - Wat doe je nu  
-- Is dat wat je verwacht had
+- Is dat wat je verwacht had  
 
+LIteratuur: Steve Krug  
+*Rocket surgery made easy*   
 
 !
 ###Helpen?
@@ -284,7 +286,8 @@ De film nog eens afspelen en er over discusseren
 
 !
 ##Analyse
-Tijden de test  NOTITIES MAKEN  
+
+Tijden de test ** NOTITIES** MAKEN  
 - Observeer gedrag   
 - Luister  
 - Noteer!!!  
@@ -296,21 +299,25 @@ ONS onderzoek heeft uitgewezen
 ###3 dingen
 Als de testpersoon weg is...  
 
-- iedereen noemt zijn/haar drie meest belangrijke issues
+- iedereen noemt zijn/haar drie meest belangrijke issues  
 
 !
-###Trello
+
+###Trello  
 Maak gelijk een to do lijst  
 - issues (slim geordend)
 - oplossingen  
 - wie doet wat   
 
-!  
+
+!
 ####Slim geordend
 Effect / Effort  
 
 
-![priority grid](Prio grid.png)  
+![](Prio grid.png) 
+
+ 
 	  
 Quick wins    
 
@@ -522,16 +529,9 @@ Lees de instructies voor het naar het lab gaan!
 
 
 !
+#
+![](pc2.jpg)  
 
-![](pc2.jpg)
-!
-
-
-![]()
-!
-
-![]()
-! 
 
 
 
