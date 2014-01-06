@@ -457,7 +457,8 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 ##Filmpje user lab
 Dan weet je waar we het over hebben
 
-[eyetracking video](http://www.youtube.com/watch?v=TXYtbCdLpBo&feature=youtu.be)
+[eyetracking video]()
+
 
   
 
@@ -489,7 +490,8 @@ http://www.techsmith.com/morae.html
 !
 ####mobiel testen
 Opnames maken van de smart phone blijkt een sticky problem.
-http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328  
+[](http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328) 
+ 
  
 Oplossing is ms streamen naar laptop en het daar opnemen:
 https://www.reflectorapp.com  
@@ -516,9 +518,11 @@ Lees de instructies voor het naar het lab gaan!
 
 !
 ###Inschrijven
-#[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)
+#[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)  
+
 
 !
+
 ![](pc2.jpg)
 !
 
