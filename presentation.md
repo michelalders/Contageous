@@ -38,7 +38,7 @@ Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat prod
 Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
 ###NootHet is de bedoeling dat je verrast wordt...
 !
-###Student fallacy
+###Research fallacy
 
 Vooral bij het testen van eigen werk:  
 
@@ -382,30 +382,52 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 !
 ##Filmpje user lab
 Dan weet je waar we het over hebben
+
+
 !
 ##In het algemeen:Tot en met 24 januari is het lab gereserveerd voor Project 2.   
-Maar jullie zijn met velen.!##Userlab
-1. alternatieven
-2. het lab
+Maar jullie zijn met velen.!##Testen
+1. buiten het lab
+2. in het lab
 !
-###Buiten het lab testen
+###Buiten het lab testen
 
-QuickTime Player  
+**QuickTime Player** Standaard  
+
 ![Dit is een afbeelding](QT1.png)  
+
+
 ![Dit is een afbeelding](QT2.png)  
-![Dit is een afbeelding](QT3.png)  
-http://magitest.com
+!
+###Buiten het lab testen
+http://magitest.com  
 
-http://www.uxrecorder.com
+http://www.uxrecorder.com  
 
-tips van Steve Krug.
+http://www.techsmith.com/morae.html  
 
+!
+####mobiel testen
 Opnames maken van de smart phone blijkt een sticky problem.
-http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328
+http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328  
  
 Oplossing is ms streamen naar laptop en het daar opnemen:
-https://www.reflectorapp.com
+https://www.reflectorapp.com  
  
+!
+####Mobiel testen
+Te leen (michel alders):  
+
+![Dit is een afbeelding](mobiel.png)  
+
+!
+###In het lab testen
+
+![We gaan teveel op de automatische piloot en niet alleen in het vliegtuig](Quick user lab guide.pdf)
+
+!
+
+###
 
  
 
