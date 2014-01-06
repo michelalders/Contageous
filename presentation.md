@@ -77,7 +77,7 @@ Als die bestaat dan bestaat er ook een perfecte test
 !###Where are you now?
 Waar jullie nu zitten weet ik niet.  Maar:    
 •	agile   •	lean  •	iterative  •	minimal  
-Alles wijst erop dat het de bedoeling is om snel met resultaten te komen.  !###DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
+!###DisclaimerWat ik jullie vandaag te bieden heb, zijn louter algemeenheden.  
 
 Want:  - Wat is het product?  
 - Wat is de inhoud?  - Wat beoogt het?- Hoe doet het dat?!
@@ -89,7 +89,7 @@ Want:  - Wat is het product?
 
 ##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
-##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je prototype.!
+##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je prototype.!  
 ###Een sociaal psychologisch experiment
 Je vertelt zelden de ware bedoeling van een onderzoek  
 conformeren /sociale druk / discriminatie /stereotypering  
@@ -187,9 +187,9 @@ testpersoon: Geen flauw idee
 proefleider: Hoe zou je dit oplossen als ik er niet was?  
 
 !
-####waardevolle informatie verzamelen
+####Waardevolle informatie verzamelen
 
-testpersoon:  
+Wat testpersoon zegt is waardevol:  
 - Ik zou de helpdesk bellen  
 - Ik zou de helpdesk mailen
 - Ik zou deze vraag overslaan
@@ -202,8 +202,9 @@ proefleider: Oke, je antwoord is heel nuttig...
 
 ###Prompts
 
-Wat moet ik doen?  
+Testpersoon: Wat moet ik doen?  
 
+Proefleider:  
 - Wat zou je doen als ik niet naast je zat    
 - Wat zou je doen als je thuis was  
 - Ik wil graag dat je doet wat je normaal gesproken doet   
