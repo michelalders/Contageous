@@ -234,14 +234,15 @@ Wat vraag je als je een film hebt laten zien???
 
 !
 
-#En? 
+#En?  
 
 
 !
-###Of:
+###Of:  
 
-Kun je me vertellen wat je gezien hebt?  
+Kun je me vertellen wat je gezien hebt?   
 
+!
 ###Of:  
 
 Kun je vertellen waar de film over gaat
@@ -259,8 +260,9 @@ etc.
 !
 
 ###En/Of
-De film nog eens afspelen en er over discusseren
+De film nog eens afspelen en er over discusseren  
 
+!
 ##Analyse
 Tijden de test  NOTITIES MAKEN
 - Observeer gedrag   
@@ -268,26 +270,28 @@ Tijden de test  NOTITIES MAKEN
 - Noteer!!!  
 
 **Bewijslast**:  
-ONS onderzoek heeft uitgewezen
+ONS onderzoek heeft uitgewezen  
 
-
+!
 ###3 dingen
 Als de testpersoon weg is...  
 
 - iedereen noemt zijn/haar drie meest belangrijke issues
 
-
-
+!
 ###Trello
 Maak gelijk een to do lijst  
 - issues (slim geordend)
 - oplossingen  
-- wie doet wat 
+- wie doet wat  
 !
 
 ####Slim geordend
 
-![priority grid](prioritygrid.png)
+![priority grid](Prio grid.png)	  
+
+
+
   
 
 
