@@ -531,18 +531,22 @@ Lees de instructies voor het naar het lab gaan!
 
 !
 ###Lab
-![](IMG_1178.JPG)
-  
-!
-3 aanknoppen  
+![](IMG_1178.JPG)  
+
+
+4 aanknoppen  
 - scherm huiskamer  
 - pc huiskamer  
 - pc observatieruimte  
+- TV observatieruimte  
 
 !
 
 ###Tobii
-
+Kies voor:  
+- web (link naar een specifieke website)  
+- movie (browse naar je film die op de PC staat)  
+- screenrecording ()
 
 
 
