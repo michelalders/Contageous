@@ -7,13 +7,13 @@
 !
 #Gelukkig nieuwjaar!
 ##Michel Alders- Mens Machine Interactie / Onderzoek  
-![Dit is een afbeelding](TomTomlogo.png)
+![logo](TomTomlogo.png)
 
-!
-
-	##HvARuim een jaar  
-- Coördinator user lab   Testen in goede banen leiden…!
+!	##HvARuim een jaar  
+- Coördinator user lab  !
 ##User labHet belangrijkste voor vandaag is dat jullie zo dadelijk in staat zijn om in het user lab te testen.
+
+![lab](lab1.jpg)  
 !##NuDus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
 #Agenda1. goed onderzoek doen
 2. user lab procedure
