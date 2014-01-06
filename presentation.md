@@ -531,7 +531,7 @@ Lees de instructies voor het naar het lab gaan!
 
 !
 ###Lab
-![](pc2.jpg)  
+![](pc2.JPG)  
 !
 3 aanknoppen  
 - scherm huiskamer  
