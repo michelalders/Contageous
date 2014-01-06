@@ -20,15 +20,26 @@
 
 !
 
-#De helft van het werk**Een goede voorbereiding**!!##Hoe bereid je je goed voor?Door goed na te denken voordat je begint.  
+#De helft van het werk**Een goede voorbereiding**!!##Hoe bereid je je goed voor?Goed na- en doordenken.  
+Wat is het **doel van de test**???
 
-Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat product dat voor elkaar krijgen?!###Een draaiboek maken en testen...- Chronologisch overzicht van de test (vooraf, tijdens, achteraf)
-- Checklist - Wat moet wanneer  
-	- Gezegd
-	- Gedaan  
-Er is een template maar...!
-###Prototype 1.0 Idealiter heb je bij het ontwerpen van het product al een helder antwoord op doel en aard van het product (prototype 1.0).  
-Een prototype ontwerp (zeker 1.0) is altijd voor verbetering vatbaar.  
+
+
+- Wat is het **doel** van het Minimal Viable Product (MVP)dat ik ga testen?  
+
+- Welke **aspecten** zijn belangrijk?  
+  - En **hoe** gaat het MVP dat voor elkaar krijgen?  
+
+
+
+!###Een draaiboek maken en testen...- Chronologisch overzicht van de test (vooraf, tijdens, achteraf)
+- Checklist  
+	- Wat zeg je wanneer  
+	- Wat doe je wanneer  
+Er is een template maar...
+[Testopzet]()!
+###Prototype 1.0 Doel en aard MVP zijn bekend  
+Altijd voor verbetering vatbaar.  
 Een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken   - wat wil je bereiken en  
 - krijgt je hele ontwerp dat altijd en overal voor elkaar  
 !
@@ -36,15 +47,15 @@ Wat is het **doel** van het product dat ik ga testen?  En **hoe** gaat dat prod
 !
 ###2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
 Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
-###NootHet is de bedoeling dat je verrast wordt...
-!
+###Get shockedKill your darlings...   
+!
 ###Research fallacy
 
 Vooral bij het testen van eigen werk:  
 
 Testen om zelfvertrouwen te verhogen  
 
-De wil om positieve resultaten te krijgen.  
+De wil om positieve resultaten te krijgen  
 
 !
 ###Perfecte wereld?
@@ -78,14 +89,12 @@ Want:  - Wat is het product?
 
 ##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
-##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je ontwerp.!
+##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je prototype.!
 ###Een sociaal psychologisch experiment
-Je vertelt zelden de ware bedoeling van een onderzoek
-
-- conformeren
-- sociale druk
-- discriminatie
-- stereotypering- De bedoeling is om te testen of je de knop 'Bestel' begrijpt 
+Je vertelt zelden de ware bedoeling van een onderzoek  
+conformeren /sociale druk / discriminatie /stereotypering  
+- De bedoeling is om te testen of je de knop 'Bestel' begrijpt  
+
 !###ValkuilBij een gebruikerstest lok je mensen in de val  
 Je verleid ze om op de meest cruciale onderdelen:
 - fouten te maken, 
@@ -96,14 +105,15 @@ Want:  - Wat is het product?
 - zo naturel als mogelijk in aanraking probeert te krijgen met je product
 - naïef als een gebruiker die thuis achter zijn computer zit
 !
-###Hoe naïef kun je zijn? !
+###Hoe naïef kun je zijn?Niet testen	is slechts  
+Doelgroep testen is best  
+Goede testpersonen worden belangrijker naarmate je product finaler wordt  
+!
 ##Ready to test?Voorbereiding:  
 - De juiste introductie  - De juiste instructies / taken  - De juiste vragen achteraf  !
 ###Vraag en antwoord
-- wat wil ik weten?  
-**Onderzoeksvragen**  
-- hoe kom ik dat slim te weten   
-**Taken en gebruikersscenario**  
+- wat wil ik weten? --> **Onderzoeksvragen**  
+- hoe kom ik dat slim te weten --> **Taken en gebruikersscenario**  
 
 
 ~Iteratief; 
@@ -118,7 +128,9 @@ Maak een goed lopend draaiboek
 !
 ####Co-discovery
 
-Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?
+Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?   
+
+Wiens ogen worden getraceerd?
 
 ! 
 ##Introductie
@@ -159,29 +171,35 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 Zeg liever te weinig dan teveel  
 !
 ####Niet zo
-- Wat is een UID?  
-Dat is een Unique Identifier. Een nummer dat op het product staat.
+testpersoon: Wat is een UID?  
+
+proefleider: Dat is een Unique Identifier. Een nummer dat op het product staat.
 
 !
 ####Maar zo
 
-- Wat is een UID?  
+testpersoon: Wat is een UID?  
 
-Wat denk jezelf?  
+proefleider: Wat denk jezelf?  
 
-- Geen flauw idee  
+testpersoon: Geen flauw idee  
 
-Hoe zou je dit oplossen als ik er niet was?  
+proefleider: Hoe zou je dit oplossen als ik er niet was?  
 
+!
+####waardevolle informatie verzamelen
+
+testpersoon:  
 - Ik zou de helpdesk bellen  
 - Ik zou de helpdesk mailen
 - Ik zou deze vraag overslaan
 - Ik zou zomaar wat invullen
 - Ik zou iets anders gaan doen
 
-Oke, je antwoord is heel nuttig... 
+proefleider: Oke, je antwoord is heel nuttig... 
 
 !
+
 ###Prompts
 
 Wat moet ik doen?  
@@ -243,15 +261,39 @@ etc.
 ###En/Of
 De film nog eens afspelen en er over discusseren
 
+##Analyse
+Tijden de test  NOTITIES MAKEN
+- Observeer gedrag   
+- Luister  
+- Noteer!!!  
+
+**Bewijslast**:  
+ONS onderzoek heeft uitgewezen
 
 
+###3 dingen
+Als de testpersoon weg is...  
+
+- iedereen noemt zijn/haar drie meest belangrijke issues
+
+
+
+###Trello
+Maak gelijk een to do lijst  
+- issues (slim geordend)
+- oplossingen  
+- wie doet wat 
 !
-#Kortom
-Hoe je test er precies uit komt te zien, is afhankelijk van de **INHOUD**  
+
+####Slim geordend
+
+![priority grid](prioritygrid.png)
+  
+
 
 !
 ##De cijfers!
-Resultaten zijn **observaties**, maar cijfers zijn ook handig  
+Resultaten zijn vooral **observaties**, maar cijfers zijn ook handig  
 
 
 - rapportcijfers bijvoorbeeld
@@ -263,14 +305,14 @@ Resultaten zijn **observaties**, maar cijfers zijn ook handig
 0 	=  helemaal niet waarschijnlijk  
 10 	=  extreem waarschijnlijk  
 
-![Dit is een afbeelding](NPS.png)  
+![Net Promoter Score](NPS.png)  
 
 
 !
 ###SUS
 System Usability Scale (10 vragen op  een 5 puntsschaal)
 
-![Dit is een afbeelding](Likert5.jpg)  
+![Likert scale](Likert5.jpg)  
 
 
 I think that I would like to use this system frequently.  
@@ -286,6 +328,10 @@ I needed to learn a lot of things before I could get going with this system.
  
 [I have a Dutch translation...]
   
+!
+#Maar
+Hoe je test er precies uit komt te zien, is afhankelijk van de **INHOUD**  
+
 !
 
 #Straks 
@@ -383,6 +429,8 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 ##Filmpje user lab
 Dan weet je waar we het over hebben
 
+[eyetracking video](http://youtu.be/0MdTuouXgAY)
+
 
 !
 ##In het algemeen:Tot en met 24 januari is het lab gereserveerd voor Project 2.   
@@ -421,13 +469,19 @@ Te leen (michel alders):
 ![Dit is een afbeelding](mobiel.png)  
 
 !
-###In het lab testen
+##In het lab testen
+Lees de instructies voor het naar het lab gaan!  
 
-![We gaan teveel op de automatische piloot en niet alleen in het vliegtuig](Quick user lab guide.pdf)
+
+
+![ultra kort](Quick user lab guide.pdf)
+
 
 !
+###Inschrijven
+[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)
 
-###
+
 
  
 
