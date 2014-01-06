@@ -457,7 +457,9 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 ##Filmpje user lab
 Dan weet je waar we het over hebben
 
-[eyetracking video]]()  
+[eyetracking video]](http://www.youtube.com/watch?v=TXYtbCdLpBo&feature=youtu.be)
+
+  
 
 !
 ##In het algemeen:Tot en met 24 januari is het lab gereserveerd voor Project 2.   
@@ -478,7 +480,7 @@ Dan weet je waar we het over hebben
 ![Dit is een afbeelding](QT2.png)  
 !
 ###Buiten het lab testen
-http://magitest.com  
+http://silverbackapp.com/  http://magitest.com  
 
 http://www.uxrecorder.com  
 
