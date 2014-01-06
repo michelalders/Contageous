@@ -287,12 +287,11 @@ Maak gelijk een to do lijst
 !
 
 ####Slim geordend
+Effect / Effort  
+
 
 ![priority grid](Prio grid.png)	  
-
-
-
-  
+Quick wins    
 
 
 !
