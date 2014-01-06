@@ -496,12 +496,13 @@ http://www.techsmith.com/morae.html
 
 !
 ####mobiel testen
-Opnames maken van de smart phone blijkt een sticky problem.
-[](http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328) 
+
+[NYT - Opnames maken van de smart phone blijkt een sticky problem](http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328) 
  
  
-Oplossing is ms streamen naar laptop en het daar opnemen:
-https://www.reflectorapp.com  
+[Oplossing is ms streamen naar laptop en het daar opnemen:]
+(https://www.reflectorapp.com)    
+
  
 !
 ####Mobiel testen
@@ -529,8 +530,18 @@ Lees de instructies voor het naar het lab gaan!
 
 
 !
-#
+###Lab
 ![](pc2.jpg)  
+!
+3 aanknoppen  
+- scherm huiskamer  
+- pc huiskamer  
+- pc observatieruimte  
+
+!
+
+###Tobii
+
 
 
 
