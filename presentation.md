@@ -37,18 +37,16 @@
 	- Wat zeg je wanneer  
 	- Wat doe je wanneer  
 Er is een template maar...
-[Testopzet]()!
+![Testopzet template]()!
 ###Prototype 1.0 Doel en aard MVP zijn bekend  
-Altijd voor verbetering vatbaar.  
-Een gebruikerstest geeft je de **gelegenheid** om nog weer eens met enige distantie naar het ontwerp te kijken   - wat wil je bereiken en  
-- krijgt je hele ontwerp dat altijd en overal voor elkaar  
+Altijd voor verbetering vatbaar  
 !
 ####De gebruikerstest als ontwerptool  
-!
-###2.0De resultaten van de test geven je handvatten om je ontwerp aan te scherpen.  
-Om ontwerp 2.0 vorm te geven.!###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
-###Get shockedKill your darlings...   
-!
+!###SchokHet resultaat is zo goed als altijd **schokkend**  Het valt altijd tegen wat de gebruiker van het ontwerp begrijpt.!
+####Kill your darlings...   
+![](trash.png) 
+  
+!
 ###Research fallacy
 
 Vooral bij het testen van eigen werk:  
@@ -81,34 +79,48 @@ Als die bestaat dan bestaat er ook een perfecte test
 
 Want:  - Wat is het product?  
 - Wat is de inhoud?  - Wat beoogt het?- Hoe doet het dat?!
+![http://ericasadun.com/wp-content/uploads/2013/04/lorem.png](lorem.png)
+!
+
+
 ###InteractiefIs het bijvoorbeeld interactief?Het is heel lastig om concrete hulpmiddelen te bieden als het niet bekend is wat er getest wordt.
 !###Denk hardop?Vraag je de proefpersoon om hardop na te denken?
-!###HardopdenkenVerbaliseer je gedachten tijdens de taak.  Maar als de taak een filmpje kijken is?  Wil je dan wel dat ze er doorheen praten? Hangt af van de film…   
+!###HardopdenkenVerbaliseer je gedachten tijdens de taak.  ![](tv.png)  Maar als de taak een filmpje kijken is?  Wil je dan wel dat ze er doorheen praten? Hangt af van de film…   
 Hoeveel **aandacht** is er nodig voor de film?!###Live commentaarBij film kan ik me voorstellen dat je aangeeft:
 **“Voel je vrij om commentaar te geven tijdens de film; we stellen dat zeer op prijs.”**!
 
 ##KortomHet is dus zaak om goed na te denken over  - Het doel van het product  
 - Hoe dat bereikt wordt  - Hoe je dat slim kunt testen  !
 ##Slim testenSlim testen betekent dat je de testpersoon zo natuurlijk mogelijk blootstelt aan de meest cruciale aspecten van je prototype.!  
+
 ###Een sociaal psychologisch experiment
 Je vertelt zelden de ware bedoeling van een onderzoek  
 conformeren /sociale druk / discriminatie /stereotypering  
 - De bedoeling is om te testen of je de knop 'Bestel' begrijpt  
 
 !###ValkuilBij een gebruikerstest lok je mensen in de val  
+
+![http://fsweb.bainbridge.edu](pitfall.png)  
+
+Zonder waarschuwing
+
 Je verleid ze om op de meest cruciale onderdelen:
 - fouten te maken, 
 - je product niet te begrijpen
 
 !
-###Set the stage...Slim testen betekent vaak dat je de testpersoon
-- zo naturel als mogelijk in aanraking probeert te krijgen met je product
+###Naturel
+Testpersoon  
+- zo naturel als mogelijk in aanraking probeert te krijgen met je product  
 - naïef als een gebruiker die thuis achter zijn computer zit
 !
-###Hoe naïef kun je zijn?Niet testen	is slechts  
+###Hoe naïef kun je zijn?![](good.png)   
 Doelgroep testen is best  
-Goede testpersonen worden belangrijker naarmate je product finaler wordt  
-!
+Goede testpersonen worden belangrijker naarmate je product finaler wordt  
+
+!
+
+#0!
 ##Ready to test?Voorbereiding:  
 - De juiste introductie  - De juiste instructies / taken  - De juiste vragen achteraf  !
 ###Vraag en antwoord
@@ -126,16 +138,18 @@ Maak een goed lopend draaiboek
 - Proefdraaien met een groepsgenoot  
 
 !
+
 ####Co-discovery
 
 Als je 2 mensen samen laat kijken naar een film en van commentaar laat voorzien?   
 
+![www.cbc.ca](co.jpg))  
 Wiens ogen worden getraceerd?
 
 ! 
 ##Introductie
-Persoon in de juiste mindset krijgen.
-Vragen stellen die van belang kunnen zijn  
+Persoon in de juiste mindset krijgen.  
+Interview
 
 - eventueel gebruiken voor een scenario on the fly...
 
@@ -145,6 +159,7 @@ Vragen stellen die van belang kunnen zijn
 **Onderzoeksvraag**: begrijpt de doelgroep de boodschap van mijn video
 
 **Taak**: bekijk de film
+!
 
 **Scenario** (wat je de testpersoon vertelt): Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
 Nu krijg je een email van een vriend met een link en deze tekst:  
@@ -156,8 +171,9 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 **Maar zo**: Wat is dit volgens jou?
 !
 ###Taak / instructie:  
+![](bol.png)
 
-**Niet zo**:Kun je me laten zien hoe je de printer "BW450TXJ" bestelt?
+**Niet zo**:Kun je me laten zien hoe naar de actie gaat?
 **Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. Kun je dat eens proberen?
 !###Taak / instructie:  
 
