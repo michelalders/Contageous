@@ -37,7 +37,9 @@
 	- Wat zeg je wanneer  
 	- Wat doe je wanneer  
 Er is een template maar...
-![Testopzet template]()!
+!
+#[Testopzet template](Voorbeeld Testplan_simpel)
+!!
 ###Prototype 1.0 Doel en aard MVP zijn bekend  
 Altijd voor verbetering vatbaar  
 !
@@ -360,7 +362,7 @@ I needed to learn a lot of things before I could get going with this system.
 
 !
 
-#Straks 
+#Nu 
 ###Filmpje user lab  
 ###testen in het user lab  
 Of niet in het user lab testen  
@@ -455,8 +457,7 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 ##Filmpje user lab
 Dan weet je waar we het over hebben
 
-[eyetracking video](http://youtu.be/0MdTuouXgAY)
-
+[eyetracking video]]()  
 
 !
 ##In het algemeen:Tot en met 24 januari is het lab gereserveerd voor Project 2.   
@@ -468,7 +469,10 @@ Dan weet je waar we het over hebben
 
 **QuickTime Player** Standaard  
 
+
 ![Dit is een afbeelding](QT1.png)  
+
+!
 
 
 ![Dit is een afbeelding](QT2.png)  
@@ -490,26 +494,38 @@ https://www.reflectorapp.com
  
 !
 ####Mobiel testen
-Te leen (michel alders):  
+Te leen (bij Michel Alders):  
 
-![Dit is een afbeelding](mobiel.png)  
+![](Mobiel.png)  
+
+
 
 !
 ##In het lab testen
 Lees de instructies voor het naar het lab gaan!  
 
+!
+#![instructie](Instructie UI lab)
+!
 
 
-![ultra kort](Quick user lab guide.pdf)
+#![Instructie referentie](Quick user lab guide.pdf)
 
 
 !
 ###Inschrijven
-[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)
+#[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)
+
+!
+![](pc2.jpg)
+!
 
 
+![]()
+!
 
- 
+![]()
+! 
 
 
 
