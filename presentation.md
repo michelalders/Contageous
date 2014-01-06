@@ -173,8 +173,8 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 ###Taak / instructie:  
 ![](bol.png)
 
-**Niet zo**:Kun je me laten zien hoe naar de actie gaat?
-**Maar zo**: Je wilt een klein zwart-witprintertje kopen voor op je tafel zodat je niet over het netwerk hoeft te printen. Kun je dat eens proberen?
+**Niet zo**:Kun je me laten zien hoe je "Naar de actie" gaat?
+**Maar zo**: Je wilt kijken of er leuke aanbiedingen zijn?
 !###Taak / instructie:  
 
 **Niet zo**: Kun je laten zien hoe je inlogt?  
@@ -206,13 +206,14 @@ proefleider: Hoe zou je dit oplossen als ik er niet was?
 ####Waardevolle informatie verzamelen
 
 Wat testpersoon zegt is waardevol:  
-- Ik zou de helpdesk bellen  
-- Ik zou de helpdesk mailen
-- Ik zou deze vraag overslaan
-- Ik zou zomaar wat invullen
-- Ik zou iets anders gaan doen
 
-proefleider: Oke, je antwoord is heel nuttig... 
+- Ik zou de helpdesk bellen  
+- Ik zou de helpdesk mailen  
+- Ik zou deze vraag overslaan  
+- Ik zou zomaar wat invullen  
+- Ik zou iets anders gaan doen  
+
+proefleider: Oke, je antwoord is heel nuttig...   
 
 !
 
@@ -281,7 +282,7 @@ De film nog eens afspelen en er over discusseren
 
 !
 ##Analyse
-Tijden de test  NOTITIES MAKEN
+Tijden de test  NOTITIES MAKEN  
 - Observeer gedrag   
 - Luister  
 - Noteer!!!  
@@ -300,14 +301,15 @@ Als de testpersoon weg is...
 Maak gelijk een to do lijst  
 - issues (slim geordend)
 - oplossingen  
-- wie doet wat  
-!
+- wie doet wat   
 
+!  
 ####Slim geordend
 Effect / Effort  
 
 
-![priority grid](Prio grid.png)	  
+![priority grid](Prio grid.png)  
+	  
 Quick wins    
 
 
@@ -320,7 +322,11 @@ Resultaten zijn vooral **observaties**, maar cijfers zijn ook handig
 
 !
 ###NPS
-- Net promoter scale (variant); "Hoe waarschijnlijk is het dat je dit filmpje aanbeveelt aan een vriend of collega?  
+- Net promoter scale (variant)  
+
+
+Hoe waarschijnlijk is het dat je dit filmpje aanbeveelt aan een vriend of collega?   
+
 
 0 	=  helemaal niet waarschijnlijk  
 10 	=  extreem waarschijnlijk  
@@ -349,8 +355,8 @@ I needed to learn a lot of things before I could get going with this system.
 [I have a Dutch translation...]
   
 !
-#Maar
-Hoe je test er precies uit komt te zien, is afhankelijk van de **INHOUD**  
+#User lab
+![](deur.jpg) 
 
 !
 
