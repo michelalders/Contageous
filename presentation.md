@@ -9,7 +9,8 @@
 ####Michel Alders Mens Machine Interactie / Onderzoek  
 ![logo](TomTomlogo.png)
 
-!	##HvARuim een jaar  
+!
+##HvARuim een jaar  
 - Coördinator user lab  !
 ##User labHet belangrijkste voor vandaag is dat jullie in staat zijn om in het user lab te testen.
 
@@ -38,8 +39,7 @@
 	- Wat doe je wanneer  
 Er is een template maar...
 !
-#Testopzet template
-!
+##Testopzet template download later!
 ###Prototype 1.0 Doel en aard MVP zijn bekend  
 Maar... er is altijd ruimte voor verbetering    
 !
@@ -91,7 +91,7 @@ Als die bestaat dan bestaat er ook een perfecte test
 ###Een sociaal psychologisch experiment
 Je vertelt zelden de ware bedoeling van een onderzoek  
 
-![](Bestelknop.jpg)- We testen of je snapt dat "Bestel NU" de koopknop is.
+![](Bestelknop.png)- We testen of je snapt dat "Bestel NU" de koopknop is.
 
 !###ValkuilBij een gebruikerstest lok je mensen in de val  
 
