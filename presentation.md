@@ -451,7 +451,7 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 !
 ##Filmpje user lab
 
-![eyetracking video](http://www.youtube.com/watch?v=TXYtbCdLpBo&feature=youtu.be)
+[eyetracking video](http://www.youtube.com/watch?v=TXYtbCdLpBo&feature=youtu.be)
 
   
 
