@@ -501,7 +501,7 @@ Te leen (bij Michel Alders):
 !
 
 #[Testopzet template](Voorbeeld Testplan_simpel)
-!
+
 
 !
 #In het lab testen
@@ -532,13 +532,17 @@ Kies voor:
 ###Lab
 ![](IMG_1178.JPG)  
 
+!
 
 4 aanknoppen  
 - scherm huiskamer  
 - pc huiskamer  
 - pc observatieruimte  
 - TV observatieruimte  
+
+
 !
+
 
 #Toegangspas
 In de propadeusekamer!  
@@ -551,6 +555,8 @@ In de propadeusekamer!
 !
 
 
+#Thank you
+!
 
 
 
