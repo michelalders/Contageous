@@ -527,24 +527,29 @@ Kies voor:
 ###Inschrijven
 #[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)  
 
-
-!
-###Lab
-![](IMG_1178.JPG)  
-
 !
 
-4 aanknoppen  
+###4 aanknoppen  
 - scherm huiskamer  
 - pc huiskamer  
 - pc observatieruimte  
 - TV observatieruimte  
 
+!
+###Lab
+![](IMG_1178.JPG)  
+
+
 
 !
 
+###TV
+![](tvknop.jpg)
+  
+!
 
-#Toegangspas
+
+##Toegangspas
 In de propadeusekamer!  
 
 1. Ophalen   
@@ -557,9 +562,3 @@ In de propadeusekamer!
 
 #Thank you
 !
-
-
-
-
-
-
