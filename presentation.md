@@ -176,6 +176,8 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 
 !####Regel
 Zeg liever te weinig dan teveel  
+![](freud.jpg)
+
 !
 ####Niet zo
 testpersoon: Wat is een UID?  
