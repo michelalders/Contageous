@@ -182,7 +182,12 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 ####Niet zo
 testpersoon: Wat is een UID?  
 
-proefleider: Dat is een Unique Identifier. Een nummer dat op het product staat.
+proefleider: Dat is een Unique Identifier. Een nummer dat op het product staat.  
+
+testpersoon: Wat moet ik dan invullen  
+
+proefleider: doe maar een getal   
+ 
 
 !
 ####Maar zo
