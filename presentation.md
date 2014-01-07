@@ -11,7 +11,7 @@
 
 !	##HvARuim een jaar  
 - Coördinator user lab  !
-##User labHet belangrijkste voor vandaag is dat jullie zo dadelijk in staat zijn om in het user lab te testen.
+##User labHet belangrijkste voor vandaag is dat jullie in staat zijn om in het user lab te testen.
 
 ![lab](lab1.jpg)  
 !##NuDus ik loop even de **procedures** en **wizards** met jullie door.Maar het is natuurlijk ook heel belangrijk dat jullie **resultaten** boeken met het doen van onderzoek…!
@@ -38,8 +38,8 @@
 	- Wat doe je wanneer  
 Er is een template maar...
 !
-#[Testopzet template](Voorbeeld Testplan_simpel)
-!
+#Testopzet template
+!
 ###Prototype 1.0 Doel en aard MVP zijn bekend  
 Maar... er is altijd ruimte voor verbetering    
 !
@@ -97,15 +97,9 @@ Als die bestaat dan bestaat er ook een perfecte test
 
 ![http://fsweb.bainbridge.edu](pitfall.png)  
 
-Zonder waarschuwing
-
-Je verleid ze om op de meest cruciale onderdelen:
-- fouten te maken, 
-- je product niet te begrijpen
-
 !
-###Testpersoon- zo naturel als mogelijk in aanraking probeert te krijgen met je product  
-- **naïef** als een gebruiker die thuis achter zijn computer zit
+###Testpersoon- zo naturel mogelijk in aanraking krijgen met je product  
+- **naïef** als een gebruiker thuis achter de computer
 !
 ###Hoe naïef kun je zijn?![](good.png)   
 Doelgroep testen is best  
@@ -161,9 +155,9 @@ Interview
 Je hebt een vakantie gepland met vrienden. Lekker naar Spanje in een goedkoop appartement.
 Nu krijg je een email van een vriend met een link en deze tekst:  
 
-"Moet je hier eens naar kijken. Wat denk jij?"Je hebt alle tijd, dus je besluit de link te openen...
+"Moet je hier eens naar kijken. Wat denk jij?")Je hebt alle tijd, dus je besluit de link te openen...
 
-!###Taak instructie  
+!###Taak / instructie  
 **Niet zo**: Wat vind je hiervan?  
 **Maar zo**: Wat is dit volgens jou?
 !
@@ -175,7 +169,7 @@ Nu krijg je een email van een vriend met een link en deze tekst:
 !###Taak / instructie:  
 
 **Niet zo**: Kun je laten zien hoe je inlogt?  
-**Maar zo**: Kun je laten zien hoe een plaats reserveert?  !
+**Maar zo**: Kun je laten zien hoe je een plaats reserveert?  !
 ###Prompts
 Jouw reacties zijn heel bepalend.  
 Hier gaat het vaak mis.  
@@ -305,22 +299,9 @@ Als de testpersoon weg is...
 
 ###Trello  
 Maak gelijk een to do lijst  
-- issues (slim geordend)
+- issues (slim geordend - effect / effort)
 - oplossingen  
 - wie doet wat   
-
-
-!
-####Slim geordend
-Effect / Effort  
-
-
-![](Prio grid.png) 
-
- 
-	  
-Quick wins    
-
 
 !
 ##De cijfers!
@@ -462,10 +443,8 @@ Het verhaal zou niet zonder de boodschap verteld moeten kunnen worden.
 
 !
 ##Filmpje user lab
-Dan weet je waar we het over hebben
 
-[eyetracking video]()
-
+![eyetracking video](http://www.youtube.com/watch?v=TXYtbCdLpBo&feature=youtu.be)
 
   
 
@@ -500,8 +479,7 @@ http://www.techsmith.com/morae.html
 [NYT - Opnames maken van de smart phone blijkt een sticky problem](http://pogue.blogs.nytimes.com/2013/03/28/an-easy-way-to-capture-live-video-of-your-iphones-screen/?nl=technology&emc=edit_ct_20130328) 
  
  
-[Oplossing is ms streamen naar laptop en het daar opnemen:]
-(https://www.reflectorapp.com)    
+[Oplossing is ms streamen naar laptop en het daar opnemen:](https://www.reflectorapp.com)    
 
  
 !
@@ -510,10 +488,15 @@ Te leen (bij Michel Alders):
 
 ![](Mobiel.png)  
 
+!
+#Downloads
+!
 
+#[Testopzet template](Voorbeeld Testplan_simpel)
+!
 
 !
-##In het lab testen
+#In het lab testen
 Lees de instructies voor het naar het lab gaan!  
 
 !
@@ -525,6 +508,14 @@ Lees de instructies voor het naar het lab gaan!
 
 
 !
+###Tobii
+Kies voor:  
+- web (link naar een specifieke website)  
+- movie (browse naar je film die op de PC staat)  
+- screenrecording ()
+
+!
+
 ###Inschrijven
 #[Link naar GDrive](https://docs.google.com/spreadsheet/ccc?key=0An2fuYSJ-9EsdFNPTjhDbkpCNnJjVmdEMnNraUN5OUE&usp=sharing)  
 
@@ -539,14 +530,21 @@ Lees de instructies voor het naar het lab gaan!
 - pc huiskamer  
 - pc observatieruimte  
 - TV observatieruimte  
+!
+
+#Toegangspas
+In de propadeusekamer!  
+
+1. Ophalen   
+2. Groepsgenoten binnenlaten  
+3. Pas gelijk terugbrengen  
+4. Deur dicht doen als je weggaat (gaat automatisch op slot)  
 
 !
 
-###Tobii
-Kies voor:  
-- web (link naar een specifieke website)  
-- movie (browse naar je film die op de PC staat)  
-- screenrecording ()
+
+
+
 
 
 
