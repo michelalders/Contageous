@@ -499,7 +499,7 @@ Te leen (bij Michel Alders):
 !
 #Downloads
 !
-#![Testopzet / Draaiboek](Voorbeeld Testplan_simpel.docx)
+#![Testopzet/Draaiboek](Voorbeeld Testplan_simpel.docx)
 
 !
 #In het lab testen
