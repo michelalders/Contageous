@@ -499,14 +499,14 @@ Te leen (bij Michel Alders):
 !
 #Downloads
 !
-##![instructie](Voorbeeld Testplan_simpel)
+#![instructie](Voorbeeld Testplan_simpel.doc)
 
 !
 #In het lab testen
 Lees de instructies voor het naar het lab gaan!  
 
 !
-#![instructie](Instructie UI lab)
+#![instructie](Instructie UI lab.pdf)
 !
 
 
