@@ -499,7 +499,7 @@ Te leen (bij Michel Alders):
 !
 #Downloads
 !
-#![instructie](Voorbeeld Testplan_simpel.doc)
+#![instructie](Voorbeeld Testplan_simpel.docx)
 
 !
 #In het lab testen
@@ -508,7 +508,7 @@ Lees de instructies voor het naar het lab gaan!
 !
 #![instructie](Instructie UI lab.pdf)
 !
-
+	
 
 #![Instructie referentie](Quick user lab guide.pdf)
 
