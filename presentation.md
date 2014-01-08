@@ -499,11 +499,7 @@ Te leen (bij Michel Alders):
 !
 #Downloads
 !
-
-#![Testopzet template / draaiboek](Voorbeeld Testplan_simpel)   
-
-
-
+##![instructie](Voorbeeld Testplan_simpel)
 
 !
 #In het lab testen
