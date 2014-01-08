@@ -500,7 +500,9 @@ Te leen (bij Michel Alders):
 #Downloads
 !
 
-#[Testopzet template](Voorbeeld Testplan_simpel)
+#[Testopzet template / draaiboek](Voorbeeld Testplan_simpel)   
+
+
 
 
 !
